@@ -1,56 +1,31 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Burak Duran",
+  "description": "Student",
+  "image_url": "https://pbs.twimg.com/profile_images/1434157506104807424/zasLif1P_400x400.jpg",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/burakkduran/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/burakkduran",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
+      "url": "https://twitter.com/burakkduran",
       "icon": "twitter"
     },
     {
-      "title": "Buy me a coffee",
-      "url": "http://bit.ly/3G4193Q",
-      "icon": "mug"
-    },
-    {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "https://www.instagram.com/burakxdrn/",
       "icon": "instagram"
     },
     {
-      "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
-      "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
-      "icon": "link"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
       "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
+      "url": "https://open.spotify.com/user/21zlk2ko7zu4mdi2r4mxjnwdy?si=1a53365fa88a4b0d",
       "icon": "spotify"
     }
   ]
